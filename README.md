@@ -44,12 +44,12 @@ Delivery of gaming cheats from a server through encrypted payload.
 
 ✅ Debugger Detection 
 - Scans for the following windows debuggers:
- - OllyDbg
- - x64dbg
- - IDA
+  - OllyDbg
+  - x64dbg
+  - IDA
 - Scans for the following DLLs:
- - sbiedll.dll
- - dbghelp.dll.
+  - sbiedll.dll
+  - dbghelp.dll.
 
 ✅ Environment Checks 
 - Detects sandboxes, debuggers, VMs, and analysis tools.
