@@ -2,7 +2,8 @@
 Delivery of gaming cheats from a server through encrypted payload.
 # Features
 
-✅ Encrypted Payload Delivery - Downloads a cheat binary from your server.
+✅ Encrypted Payload Delivery 
+- Downloads a cheat binary from your server.
 
 ✅ Chunked Downloads - Downloads payload in randomized segments with delays to avoid traffic pattern detection.
 
